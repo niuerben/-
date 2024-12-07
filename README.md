@@ -1,10 +1,12 @@
-# Heading level 1
+# 飞机大战
 
-I really like using Markdown.
-
-I think I'll use it to format all of my documents from now on.
-
-This is the first line.  
-And this is the second line.  
+## 游戏规则
+（1）在编译器中打开源文件，编译并运行；  
+（2）“W”,“S”,“A”，“D”实现前后左右移动；  
+（3）“空格”发射子弹；  
+（4）窗口顶层每隔一定时间随机刷新一架敌机。敌机分为大敌机和小敌机，  
+大敌机血量为3，小敌机血量为1；  
+（5）子弹击中敌机，且敌机血量为0时，所命中的敌机消失；  
+（6）若我方飞机与敌机接触，则我方飞机坠毁，游戏结束。  
 
 ![image](https://github.com/user-attachments/assets/0f009680-b95a-4da9-8202-0f4b9417e920)
