@@ -7,5 +7,4 @@ I think I'll use it to format all of my documents from now on.
 This is the first line.  
 And this is the second line.  
 
-![这是图片](/assets/img/philly-magic-garden.jpg "Magic Gardens")
-
+![image](https://github.com/user-attachments/assets/0f009680-b95a-4da9-8202-0f4b9417e920)
