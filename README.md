@@ -11,5 +11,3 @@
 
 ![image](https://github.com/user-attachments/assets/0f009680-b95a-4da9-8202-0f4b9417e920)
 
-[你好](#jump)
-<span id="jump">你好</span>
